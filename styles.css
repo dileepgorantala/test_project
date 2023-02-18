@@ -195,6 +195,13 @@ body {
     border-radius: 29px;
 }
 
+.inbox-2 {
+    /* Home */
+    width: 100%;
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.1);
+
+}
+
 .card {
     position: relative;
     width: 250px;
@@ -311,10 +318,12 @@ body {
 .group-142 {
     /* Group 142 */
     margin-top: 20px;
+    margin-left: 4px;
     margin-bottom: 10px;
     background: #DDE9FF;
     border-radius: 20px;
     padding: 20px;
+    align-items: center;
     width: 100%;
 }
 
